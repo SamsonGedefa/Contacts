@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/samso/AndroidStudioProjects/Contacts/app/src/main/res/drawable/border_color.xml" value="0.26927083333333335" />
+        <entry key="..\:/Users/samso/AndroidStudioProjects/Contacts/app/src/main/res/layout/add_contact_form.xml" value="0.31574074074074077" />
+        <entry key="..\:/Users/samso/AndroidStudioProjects/Contacts/app/src/main/res/layout/contact_list_item.xml" value="0.31574074074074077" />
+        <entry key="..\:/Users/samso/AndroidStudioProjects/Contacts/app/src/main/res/layout/main_activity.xml" value="0.31574074074074077" />
+        <entry key="..\:/Users/samso/AndroidStudioProjects/Contacts/app/src/main/res/layout/main_fragment.xml" value="0.375" />
+        <entry key="..\:/Users/samso/AndroidStudioProjects/Contacts/app/src/main/res/layout/update_contact_form.xml" value="0.31574074074074077" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
